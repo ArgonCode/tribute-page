@@ -1,11 +1,11 @@
 # README
 ## Simple tribute page
-This is a simple tribute page about Dr. Norman Borlaug. It is part of the [FCC](https://www.freecodecamp.com/) projects.
+This is a simple tribute page about Dr. Maria Skłodowska-Curie. It is part of the [FCC](https://www.freecodecamp.com/) projects.
 
 ## Code, versions, demos
 1. Githb: [https://github.com/ArgonCode/tribute-page](https://github.com/ArgonCode/tribute-page)
 2. CodePen [http://codepen.io/argon/full/RaWyGX/](http://codepen.io/argon/full/RaWyGX/)
-3. Amazon S3 [http://borlaug.argoncode.xyz/](http://borlaug.argoncode.xyz/)
+3. Amazon S3 [http://maria.argoncode.xyz/](http://maria.argoncode.xyz/)
 
 ### Author / Contact
 * ![](https://dl.dropboxusercontent.com/u/633848/Images/github_24_black.png) [github](http://www.github.com/argoncode)
@@ -22,4 +22,4 @@ MIT
 
 ## Bugs
 1. Report via pull request and/or comments.
-2. Current bugs are on [github issus](https://github.com/ArgonCode/quote-generator/issues).
+2. Current bugs are on [github issus](https://github.com/ArgonCode/tribute-page/issues).
